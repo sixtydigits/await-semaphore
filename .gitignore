@@ -37,8 +37,5 @@ jspm_packages
 .node_repl_history
 typings
 
-# Dist dir
-dist
-
 # Webstorm
 .idea
